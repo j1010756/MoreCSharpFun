@@ -21,7 +21,7 @@ namespace MoreCSharpFun
         {
             Language = temp;    
         }
-        public void PrintName(string n, int num, bool blah)
+        public void PrintName(string n)
         {
             if (Language == "EN")
             {

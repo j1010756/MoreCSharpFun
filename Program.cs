@@ -12,6 +12,6 @@ internal class Program
         System.Console.WriteLine("Please Enter Your Name");
         name = System.Console.ReadLine();
 
-        ps.PrintName();
+        ps.PrintName(name);
     }
 }
